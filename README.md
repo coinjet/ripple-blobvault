@@ -1,11 +1,11 @@
-[![Build Status](https://travis-ci.org/ripple/ripple-blobvault.svg?branch=master)](https://travis-ci.org/ripple/ripple-blobvault)
+[![Build Status](https://travis-ci.org/xdv/divvy-blobvault.svg?branch=master)](https://travis-ci.org/xdv/divvy-blobvault)
 
 You can read the documentation at [apiary](http://docs.blobvaultv1.apiary.io/)
 
 
 # Blobvault v1
 Welcome to the Blobvault v1 API. This API provides access to
-the Ripple Blobvaut.
+the Divvy Blobvault.
 
 # Blobvault Links
 + [This: Raw API Blueprint](https://raw.githubusercontent.com/rook2pawn/ripple-blobvault/master/docs/v1-apiary-api-reference.md)
